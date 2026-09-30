@@ -12,7 +12,7 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 from datetime import datetime, timedelta
 
 # ============ CONFIG ============
-BOT_TOKEN = "8661144669:AAEyijBFkL0JUb7YanuynIhpz8AsLQpHPvk"
+BOT_TOKEN = "8516599812:AAEJdWUMcZWeXSCSsHYM7FCOG0YEbNvQmRM"
 CHANNEL_ID = -1004463557586
 OWNER_ID = 7578158962
 ADMIN_IDS = [7578158962]
